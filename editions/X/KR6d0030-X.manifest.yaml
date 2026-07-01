@@ -1,0 +1,678 @@
+canonical_identifier: bkk:krp/KR6d0030/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0030/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 法華經玄贊要集
+  identifiers:
+    krp: KR6d0030
+    cbeta: X34n0638
+    cbeta_old_id: X34n0638
+    authorityid: CA0000883
+    json_key: X0638
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X34/X34n0638.xml
+    old_id: X34n0638
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0030_000-X.yaml, hash: 'sha256:808312b4a758f7b923830965220c7bb9f3cc573be057c482905e5f1de8b7867a'}
+  - {seq: 1, filename: KR6d0030_001-X.yaml, hash: 'sha256:6fa611adfb265d053baa94803fb6df9c1331f63cc6a9999ceb87d14ccaaacb24'}
+  - {seq: 2, filename: KR6d0030_002-X.yaml, hash: 'sha256:9c219c2e9d71248da3fbbb15570d4241614bb8cdd3069f35d5fc4c845b2da39e'}
+  - {seq: 3, filename: KR6d0030_003-X.yaml, hash: 'sha256:0288c49b128437e471041d21797f974e26263426727f38118bfcfe01a53711fb'}
+  - {seq: 4, filename: KR6d0030_004-X.yaml, hash: 'sha256:88bafdaf8968d8fea652b9c8172e1f6628a86d0889c6b2ded57b6961315d8a74'}
+  - {seq: 5, filename: KR6d0030_005-X.yaml, hash: 'sha256:cd1f2604c2843d908898ac342aeae36e9d2b13d8d5102ab0186f5fd0800f98dd'}
+  - {seq: 6, filename: KR6d0030_006-X.yaml, hash: 'sha256:77645a0b390debb3536eb4f905cfd0c85f109825dac85919ed94a8b07bb77fc4'}
+  - {seq: 7, filename: KR6d0030_007-X.yaml, hash: 'sha256:07fddef5b87ac1d28a87a01bcf232db1ed26470be4d2b716dc0860c9dbb60d0f'}
+  - {seq: 8, filename: KR6d0030_008-X.yaml, hash: 'sha256:a7db0d2ae9169d406235b131ffdd652fd4609fb2f0a4219ff635d33c192bd674'}
+  - {seq: 9, filename: KR6d0030_009-X.yaml, hash: 'sha256:05b12b98660e4e08c933e4be39d6a9a5681be22c2d022cd1fe8808432cfceb3c'}
+  - {seq: 10, filename: KR6d0030_010-X.yaml, hash: 'sha256:a633b69566658fe42cfb3f9d7f7c7338ed13c4aed89bfb270bb88503afea6d9d'}
+  - {seq: 11, filename: KR6d0030_011-X.yaml, hash: 'sha256:e62b6d044c7d3d0f7ff9775603db73476ffb3e00dd08292e36f1968867ffea68'}
+  - {seq: 12, filename: KR6d0030_012-X.yaml, hash: 'sha256:631265e1714c53fae97a58c74bf7f9656dcb953a9b2498698cfba478e499a743'}
+  - {seq: 13, filename: KR6d0030_013-X.yaml, hash: 'sha256:5b55b502e2ce7c1bab74534fba0bcdd5cb9c991978bc65023af70414343b2360'}
+  - {seq: 14, filename: KR6d0030_014-X.yaml, hash: 'sha256:0315981d7b8acfbc8cd3b898ca00b36d2573f14333b5cb62519f4e0d27bcc5cc'}
+  - {seq: 15, filename: KR6d0030_015-X.yaml, hash: 'sha256:b43997369830361bfd78b8078ef289499fe8c048ca411fd49acd0cd5538a8de3'}
+  - {seq: 16, filename: KR6d0030_016-X.yaml, hash: 'sha256:213c3bbff2b5a9a6d8ca7c75222944a8b5fb182163d76175342ffc2130e9c199'}
+  - {seq: 17, filename: KR6d0030_017-X.yaml, hash: 'sha256:bc84165a4d42ae9900f80dd947426ac38005fff7c037e699725c2cf1fd7dde15'}
+  - {seq: 18, filename: KR6d0030_018-X.yaml, hash: 'sha256:991c1b9e68e85dfebadb1e2b6d954d388c896cba77cf9a44da157e61869229f0'}
+  - {seq: 19, filename: KR6d0030_019-X.yaml, hash: 'sha256:99862c217b7dd9ab5fcc49ce3b2b21cd887961c26eeccef823a94b1c255c94e1'}
+  - {seq: 20, filename: KR6d0030_020-X.yaml, hash: 'sha256:9f1e203847aad6a0ae5892c77d5350ae928d80cb77ac572ece711ba8513a072e'}
+  - {seq: 21, filename: KR6d0030_021-X.yaml, hash: 'sha256:43b87ca4665bd6931e5fc8324c32af7ff444da15f60eb4a6b9d16842b776cedd'}
+  - {seq: 24, filename: KR6d0030_024-X.yaml, hash: 'sha256:f00c7c1a391d229eb208d9aed1b7a463dc005881309b3e9592b29dbafa4f745a'}
+  - {seq: 25, filename: KR6d0030_025-X.yaml, hash: 'sha256:41f040d5abc0444a6305174cac5352273ce7891b8d3d43b376cbfe37e61bc09a'}
+  - {seq: 26, filename: KR6d0030_026-X.yaml, hash: 'sha256:55f6945269718aed8849b7e494392f4bae90c5b4da7370f4ada9657d60907d7b'}
+  - {seq: 27, filename: KR6d0030_027-X.yaml, hash: 'sha256:21db9bd92aa80be186eb546785bcd36416908ac333bbbbe26f8799213d4c5c2b'}
+  - {seq: 28, filename: KR6d0030_028-X.yaml, hash: 'sha256:358279983609d857aa5bc4ac6c8c70c0f8de51fd338bbb079a9185fdc841f47e'}
+  - {seq: 29, filename: KR6d0030_029-X.yaml, hash: 'sha256:80c57070dfd7625e01106ff78d58c23588825aa10ba823f2567b9dab04ec6a97'}
+  - {seq: 31, filename: KR6d0030_031-X.yaml, hash: 'sha256:e48e9f1d02c210a205ad9679134ba75f827d8c37944c5381c17d09caa673a2f5'}
+  - {seq: 33, filename: KR6d0030_033-X.yaml, hash: 'sha256:de5bd6e690d30ee1aeef5bfb58f579f92fda51c1084c31ace7516d87cff5da0d'}
+  - {seq: 34, filename: KR6d0030_034-X.yaml, hash: 'sha256:0ad2e2cc5e8dc95a1afa779a9af2ebb032a0518eae5514ae97c798123d384f69'}
+  - {seq: 35, filename: KR6d0030_035-X.yaml, hash: 'sha256:a55a1d859f273a87b117a47fdb95a162bd05c50d18250c8204f6c9e6064fa0c6'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0030_000-X.markers.yaml, hash: 'sha256:0826986a313d2783ac9934b1fc98d20d3e59dbce06fa0f5c72638411f392bfe6'}
+  - {seq: 1, role: markers, filename: assets/KR6d0030_001-X.markers.yaml, hash: 'sha256:c22becd9ea94d0b6135583ce985a6badfdd7d7c4ed93872afba1aa42d14040cb'}
+  - {seq: 2, role: markers, filename: assets/KR6d0030_002-X.markers.yaml, hash: 'sha256:39e7ee34cf83174a41974d12c3c9c26d133b3220a68d98062dfe9f19e3e9d887'}
+  - {seq: 3, role: markers, filename: assets/KR6d0030_003-X.markers.yaml, hash: 'sha256:6511f690869b653a12e21df1263756c2e4b529553fdf84b739f62e5baf449bfe'}
+  - {seq: 4, role: markers, filename: assets/KR6d0030_004-X.markers.yaml, hash: 'sha256:5e3b77370e76598bb34d3a2b41fe929f61cc232acd51dec08e43cc60c936d815'}
+  - {seq: 5, role: markers, filename: assets/KR6d0030_005-X.markers.yaml, hash: 'sha256:a480e01b66cfc9c65b18936cf56475d307afb2e8ff32d4dac9d814f8f3fcaeaf'}
+  - {seq: 6, role: markers, filename: assets/KR6d0030_006-X.markers.yaml, hash: 'sha256:85071a14ae4fcd810a567ea2f04d3f1391d38cf7fc3cc47be0e91e9b85693046'}
+  - {seq: 7, role: markers, filename: assets/KR6d0030_007-X.markers.yaml, hash: 'sha256:af5c2f3a4a4efd6b66f2196a14bdff3353e9a1b39f33d0f4fdd6b49564764c57'}
+  - {seq: 8, role: markers, filename: assets/KR6d0030_008-X.markers.yaml, hash: 'sha256:8af9fb9a1ce806f4b90e3373bdb63026ff632619af5d4daf1fd3516c9394c638'}
+  - {seq: 9, role: markers, filename: assets/KR6d0030_009-X.markers.yaml, hash: 'sha256:94be594ff42dc33de752b4cc74aa5028f6436986ed5e52adf2e408d8a6bf63df'}
+  - {seq: 10, role: markers, filename: assets/KR6d0030_010-X.markers.yaml, hash: 'sha256:8fda03d19be0d96fc2f0efec0ed706619a61f0b98cccbfc4a98650977b836852'}
+  - {seq: 11, role: markers, filename: assets/KR6d0030_011-X.markers.yaml, hash: 'sha256:91e1e1c829f08057f8259f63bf0dd98a24d3e11e7bff7677e2a9073a1fa40c15'}
+  - {seq: 12, role: markers, filename: assets/KR6d0030_012-X.markers.yaml, hash: 'sha256:c0c2c1f2e7238464d383e6cb26b954e56731b2d6aa8d9fdcd5c4e1b241a468ac'}
+  - {seq: 13, role: markers, filename: assets/KR6d0030_013-X.markers.yaml, hash: 'sha256:624085d348e353e2c76acd56cf059add1d8263e87d0c3ae15912590a07525dce'}
+  - {seq: 14, role: markers, filename: assets/KR6d0030_014-X.markers.yaml, hash: 'sha256:98f72fdc55a01a488128cafa02cd08065e8c471da0b6cb743a3ef132b928a3b9'}
+  - {seq: 15, role: markers, filename: assets/KR6d0030_015-X.markers.yaml, hash: 'sha256:5041bd1d62509fa401198479956424abf37c0e785e30693cf00897763f4f4bef'}
+  - {seq: 16, role: markers, filename: assets/KR6d0030_016-X.markers.yaml, hash: 'sha256:f7981fdf9afb4586d8c46ee541bf1dce3488615436c90e5e3c152af51ef0b950'}
+  - {seq: 17, role: markers, filename: assets/KR6d0030_017-X.markers.yaml, hash: 'sha256:c942f2663d6b18ed2d5288a51587eb5e86ff9a2d54f4c8db66eea701e11500b6'}
+  - {seq: 18, role: markers, filename: assets/KR6d0030_018-X.markers.yaml, hash: 'sha256:296c4dd6c9ad8090f40d9c071384595a299c2adaf3206cc4be9dee689e9475d9'}
+  - {seq: 19, role: markers, filename: assets/KR6d0030_019-X.markers.yaml, hash: 'sha256:1546fa075327f34017d2ea2e421bb43f876c6298435d356a0927ae879a865a4e'}
+  - {seq: 20, role: markers, filename: assets/KR6d0030_020-X.markers.yaml, hash: 'sha256:668b5a154dd6e1eb7ce1078a4f2c6dc42a4089d934cfc5a991a5bd6d02933608'}
+  - {seq: 21, role: markers, filename: assets/KR6d0030_021-X.markers.yaml, hash: 'sha256:1135b5aabb98f5b3df74b09c8d0e5b61bc0f25dadd9ef4cc4c8d5cbed5c51429'}
+  - {seq: 24, role: markers, filename: assets/KR6d0030_024-X.markers.yaml, hash: 'sha256:b9610bb55cd79b07061119d36dbc742de13a5a6d5ece52c3e183d8a0b686e7a3'}
+  - {seq: 25, role: markers, filename: assets/KR6d0030_025-X.markers.yaml, hash: 'sha256:2a2ce182df5423699812b546f3baefbcb6c46c6518b14b92db3b0975c6862fcb'}
+  - {seq: 26, role: markers, filename: assets/KR6d0030_026-X.markers.yaml, hash: 'sha256:144663ec435283d3653700b5283b8c9992db7c8ff68b9decf39e5976cf95db87'}
+  - {seq: 27, role: markers, filename: assets/KR6d0030_027-X.markers.yaml, hash: 'sha256:7bd8fa3232bb66d5d26f746fafad74d67372272b6f1951b67c0ecf4404ee1c77'}
+  - {seq: 28, role: markers, filename: assets/KR6d0030_028-X.markers.yaml, hash: 'sha256:d07389491b27ef3d578ed08e1815b17f7b1d5f32f211459af872c372c75db248'}
+  - {seq: 29, role: markers, filename: assets/KR6d0030_029-X.markers.yaml, hash: 'sha256:af73d178f57eb6a650155a76843e0cc2b267d94893f0504b857fe6e5ac1c39b4'}
+  - {seq: 31, role: markers, filename: assets/KR6d0030_031-X.markers.yaml, hash: 'sha256:a2a1afad4dfd9dc1bbe97b79dc63ceeaf6ee8e331d89bb5de266b983beda82fa'}
+  - {seq: 33, role: markers, filename: assets/KR6d0030_033-X.markers.yaml, hash: 'sha256:73855227b4594a075686bb3fde1b0ca9e19eb7beea6572da35af973d15b945db'}
+  - {seq: 34, role: markers, filename: assets/KR6d0030_034-X.markers.yaml, hash: 'sha256:254ab3a2ee025cc3a5d2cd915f80ade5298f8d1442df2bffcd35869f88203843'}
+  - {seq: 35, role: markers, filename: assets/KR6d0030_035-X.markers.yaml, hash: 'sha256:c91a9fd254ef1337490097d3ec808bf3f1fbeeeccc8cd0b54f62a72c3a9fa699'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0030_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0030_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 37066
+  label: 法華經玄贊要集卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0030_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0030_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 35583
+  label: 法華經玄贊要集卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0030_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 30416
+  label: 法華經玄贊要集卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0030_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 23690
+  label: 法華經玄贊要集卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR6d0030_X_005-juan-start
+    span:
+    - body
+    - 0
+    - 32992
+  label: 法華經玄贊要集卷第五
+  type: juan
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR6d0030_X_006-juan-start
+    span:
+    - body
+    - 0
+    - 33813
+  label: 法華經玄贊要集卷第六
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0030_X_007-juan-start
+    span:
+    - body
+    - 0
+    - 30758
+  label: 法華經玄贊要集卷第七
+  type: juan
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR6d0030_X_007-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR6d0030_X_008-juan-start
+    span:
+    - body
+    - 0
+    - 39217
+  label: 法華經玄贊要集卷第八
+  type: juan
+  level: 1
+- ref:
+    seq: 9
+    marker_id: KR6d0030_X_009-juan-start
+    span:
+    - body
+    - 0
+    - 36234
+  label: 法華玄贊要集卷第九
+  type: juan
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR6d0030_X_010-juan-start
+    span:
+    - body
+    - 0
+    - 35845
+  label: 法華經玄贊要集卷弟十
+  type: juan
+  level: 1
+- ref:
+    seq: 11
+    marker_id: KR6d0030_X_011-juan-start
+    span:
+    - body
+    - 0
+    - 34778
+  label: 法華經玄贊要集卷第十一
+  type: juan
+  level: 1
+- ref:
+    seq: 12
+    marker_id: KR6d0030_X_012-juan-start
+    span:
+    - body
+    - 0
+    - 29270
+  label: 法華經玄贊要集卷第十二
+  type: juan
+  level: 1
+- ref:
+    seq: 13
+    marker_id: KR6d0030_X_013-juan-start
+    span:
+    - body
+    - 0
+    - 33117
+  label: 法華經玄贊要集卷第十三
+  type: juan
+  level: 1
+- ref:
+    seq: 14
+    marker_id: KR6d0030_X_014-juan-start
+    span:
+    - body
+    - 0
+    - 31770
+  label: 法華經玄贊要集卷第十四
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6d0030_X_015-juan-start
+    span:
+    - body
+    - 0
+    - 32826
+  label: 法華經玄贊要集卷第十五
+  type: juan
+  level: 1
+- ref:
+    seq: 15
+    marker_id: KR6d0030_X_015-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 方便品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 16
+    marker_id: KR6d0030_X_016-juan-start
+    span:
+    - body
+    - 0
+    - 25530
+  label: 法華經玄贊要集卷第十六
+  type: juan
+  level: 1
+- ref:
+    seq: 17
+    marker_id: KR6d0030_X_017-juan-start
+    span:
+    - body
+    - 0
+    - 19269
+  label: 法華經玄贊要集卷第十七
+  type: juan
+  level: 1
+- ref:
+    seq: 18
+    marker_id: KR6d0030_X_018-juan-start
+    span:
+    - body
+    - 0
+    - 32512
+  label: 法華經玄贊要集卷第十八
+  type: juan
+  level: 1
+- ref:
+    seq: 19
+    marker_id: KR6d0030_X_019-juan-start
+    span:
+    - body
+    - 0
+    - 34895
+  label: 法華經玄贊要集卷第十九
+  type: juan
+  level: 1
+- ref:
+    seq: 20
+    marker_id: KR6d0030_X_020-juan-start
+    span:
+    - body
+    - 0
+    - 34316
+  label: 法華經玄贊要集卷第二十
+  type: juan
+  level: 1
+- ref:
+    seq: 21
+    marker_id: KR6d0030_X_021-juan-start
+    span:
+    - body
+    - 0
+    - 34239
+  label: 法華經玄贊要集卷第二十一
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6d0030_X_024-juan-start
+    span:
+    - body
+    - 0
+    - 29980
+  label: 法華經玄贊要集卷第二十四
+  type: juan
+  level: 1
+- ref:
+    seq: 24
+    marker_id: KR6d0030_X_024-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 譬喻品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 25
+    marker_id: KR6d0030_X_025-juan-start
+    span:
+    - body
+    - 0
+    - 30760
+  label: 法華經玄贊要集卷第二十五
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6d0030_X_026-juan-start
+    span:
+    - body
+    - 0
+    - 33703
+  label: 法華經玄贊要集卷第二十六
+  type: juan
+  level: 1
+- ref:
+    seq: 26
+    marker_id: KR6d0030_X_026-mulu-1
+    span:
+    - body
+    - 11771
+    - 11771
+  label: 信解品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6d0030_X_027-juan-start
+    span:
+    - body
+    - 0
+    - 35228
+  label: 法華經玄贊要集卷第二十七
+  type: juan
+  level: 1
+- ref:
+    seq: 27
+    marker_id: KR6d0030_X_027-mulu-1
+    span:
+    - body
+    - 21792
+    - 21792
+  label: 藥草喻品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6d0030_X_028-juan-start
+    span:
+    - body
+    - 0
+    - 34140
+  label: 法華經玄贊要集卷第二十八
+  type: juan
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6d0030_X_028-mulu-1
+    span:
+    - body
+    - 13306
+    - 13306
+  label: 授記品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 28
+    marker_id: KR6d0030_X_028-mulu-2
+    span:
+    - body
+    - 18871
+    - 18871
+  label: 化城喻品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 29
+    marker_id: KR6d0030_X_029-juan-start
+    span:
+    - body
+    - 0
+    - 31461
+  label: 法華經玄贊要集卷第二十九
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6d0030_X_031-juan-start
+    span:
+    - body
+    - 0
+    - 27605
+  label: 法華經玄贊要集卷第三十一
+  type: juan
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6d0030_X_031-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 五百弟子受記品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6d0030_X_031-mulu-2
+    span:
+    - body
+    - 7318
+    - 7318
+  label: 授學無學人記品第九
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6d0030_X_031-mulu-3
+    span:
+    - body
+    - 10068
+    - 10068
+  label: 法師品第十
+  type: mulu
+  level: 1
+- ref:
+    seq: 31
+    marker_id: KR6d0030_X_031-mulu-4
+    span:
+    - body
+    - 23886
+    - 23886
+  label: 寶塔品第十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6d0030_X_033-juan-start
+    span:
+    - body
+    - 0
+    - 37643
+  label: 法華經玄贊要集卷第三十三
+  type: juan
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6d0030_X_033-mulu-1
+    span:
+    - body
+    - 7
+    - 7
+  label: 安樂行品第十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6d0030_X_033-mulu-2
+    span:
+    - body
+    - 13275
+    - 13275
+  label: 涌出品第十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 33
+    marker_id: KR6d0030_X_033-mulu-3
+    span:
+    - body
+    - 20974
+    - 20974
+  label: 如來壽量品第十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-juan-start
+    span:
+    - body
+    - 0
+    - 30662
+  label: 法華經玄贊要集卷第三十四
+  type: juan
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-1
+    span:
+    - body
+    - 9
+    - 9
+  label: 分別功德品第十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-2
+    span:
+    - body
+    - 6732
+    - 6732
+  label: 隨喜功德品第十八
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-3
+    span:
+    - body
+    - 9398
+    - 9398
+  label: 法師功德品第十九
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-4
+    span:
+    - body
+    - 18508
+    - 18508
+  label: 常不輕菩薩品第二十
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-5
+    span:
+    - body
+    - 22562
+    - 22562
+  label: 如來神力品第二十一
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-6
+    span:
+    - body
+    - 26401
+    - 26401
+  label: 囑累品第二十二
+  type: mulu
+  level: 1
+- ref:
+    seq: 34
+    marker_id: KR6d0030_X_034-mulu-7
+    span:
+    - body
+    - 28186
+    - 28186
+  label: 藥王菩薩本事品第二十三
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6d0030_X_035-juan-start
+    span:
+    - body
+    - 0
+    - 30876
+  label: 法華經玄贊要集卷第三十五
+  type: juan
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6d0030_X_035-mulu-1
+    span:
+    - body
+    - 4512
+    - 4512
+  label: 妙音品第二十四
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6d0030_X_035-mulu-2
+    span:
+    - body
+    - 7405
+    - 7405
+  label: 觀音品第二十五
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6d0030_X_035-mulu-3
+    span:
+    - body
+    - 18916
+    - 18916
+  label: 陀羅尼品第二十六
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6d0030_X_035-mulu-4
+    span:
+    - body
+    - 20752
+    - 20752
+  label: 嚴王品第二十七
+  type: mulu
+  level: 1
+- ref:
+    seq: 35
+    marker_id: KR6d0030_X_035-mulu-5
+    span:
+    - body
+    - 24035
+    - 24035
+  label: 勸發品第二十八
+  type: mulu
+  level: 1
+hash: sha256:bca24c247d5b656d3de15d200dd97cbfaad38e6d7ac6ea62c7fc091401ca609a
