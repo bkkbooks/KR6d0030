@@ -139,7 +139,6 @@ markers:
   - {type: line-break, offset: 190, content: '', id: KR6d0030_X_000-0341b06, ed: R053, 'n': 0341b06}
   - {type: xml-element, offset: 190, content: '', id: KR6d0030_X_000-bkkxmlele42, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 190, content: '', id: itemX34p0170b0301, name: item, role: open, attrs: {'xml:id': itemX34p0170b0301}}
-  - {type: substitution, offset: 194, original: 眾, replacement: 衆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3370}}
   - {type: xml-element, offset: 195, content: '', id: KR6d0030_X_000-bkkxmlele43, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 196, content: '', id: KR6d0030_X_000-bkkxmlele44, name: note, role: close, attrs: {place: inline}}
   - {type: xml-element, offset: 203, content: '', id: itemX34p0170b0301_end, name: item, role: close, attrs: {'xml:id': itemX34p0170b0301}}
@@ -366,7 +365,6 @@ markers:
   - {type: line-break, offset: 557, content: '', id: KR6d0030_X_000-0342b09, ed: R053, 'n': 0342b09}
   - {type: xml-element, offset: 557, content: '', id: KR6d0030_X_000-bkkxmlele114, name: list, role: open, attrs: {rend: no-marker}}
   - {type: xml-element, offset: 557, content: '', id: itemX34p0170c1801, name: item, role: open, attrs: {'xml:id': itemX34p0170c1801}}
-  - {type: substitution, offset: 566, original: 菓, replacement: 果, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-0510}}
   - {type: xml-element, offset: 569, content: '', id: KR6d0030_X_000-bkkxmlele115, name: note, role: open, attrs: {place: inline}}
   - {type: xml-element, offset: 570, content: '', id: KR6d0030_X_000-bkkxmlele116, name: note, role: close, attrs: {place: inline}}
   - {type: line-break, offset: 576, content: '', id: KR6d0030_X_000-0170c19, ed: X, 'n': 0170c19}
@@ -500,4 +498,4 @@ markers:
   - {type: line-break, offset: 780, content: '', id: KR6d0030_X_000-0344a01, ed: R053, 'n': 0344a01}
   body: []
   back: []
-hash: sha256:315180fd5ad4d82bb7e34cd40a2ac6939df981441ca2787e709e0f723d132729
+hash: sha256:41927c626675ae6634267d7128d8fd6e05d81e94c3d7f36cfd6597a333c7a657
